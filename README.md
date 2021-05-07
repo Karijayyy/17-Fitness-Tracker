@@ -15,5 +15,8 @@ npm i -D nodemon
 MIT
   ## Screenshot
 
+## Deployed Heroku Link
+https://intense-atoll-28218.herokuapp.com/
+
   ## Resources
   https://www.npmjs.com/

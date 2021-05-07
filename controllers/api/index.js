@@ -5,7 +5,7 @@ const db = require("../../models");
 
 //get last workout 
 router.get("/workouts", (req, res) => {
-    .sort({ day: "asc" })
+    sort({ day: "asc" })
     .then((workoutDB) => {
       res.json(workoutDB);
     })
